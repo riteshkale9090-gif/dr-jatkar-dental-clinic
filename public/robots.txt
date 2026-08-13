@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dr-jatkar-dental-clinic.pages.dev/sitemap.xml
