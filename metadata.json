@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Jatkar's Dental Clinic",
+  "description": "Dr. Jatkar's Dental Clinic in Tingre Nagar, Pune provides personalized dental care including root canal treatment, crowns, braces, clear aligners, implants, dentures and general dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
